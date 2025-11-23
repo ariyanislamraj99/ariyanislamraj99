@@ -1,7 +1,9 @@
+<img src="https://i.postimg.cc/wjqQt4bp/1758997716177-with-bgc.png"/>
+ <hr></hr>
 # Hi, I'm AriyaN Islam Raj 👋
 
 Welcome to my GitHub profile!
-[![Profile Views](https://hits.sh/github.com/OshekharO.svg?style=for-the-badge&label=VIEWS)](https://hits.sh/github.com/OshekharO/)
+[![Profile Views](https://hits.sh/github.com/OshekharO.svg?style=for-the-badge&label=VIEWS)](https://hits.sh/github.com/ariyanislamraj99/)
 
 ---
 
@@ -9,7 +11,7 @@ Welcome to my GitHub profile!
 - 🎓 Student passionate about technology, problem-solving, and building impactful solutions.
 - 🐍 Skilled in **Python** for scripting, automation, and analytics.
 - 📊 Data enthusiast: Focused on data analytics, visualization, and extracting meaningful insights.
-- 🌐 Frontend Web Developer: Crafting interactive and responsive web experiences.
+- 🌐 Backend Web Developer: Crafting interactive and responsive web experiences.
 - 🤖 Exploring **GPT-AI** and building AI-powered tools.
 - 🔍 Web Indexer: Building smarter search and information retrieval systems.
 
@@ -33,10 +35,10 @@ Welcome to my GitHub profile!
 
 ## 📫 Connect With Me
 
-<a href="https://saksham.thedev.id"><img height="25" src="https://img.shields.io/badge/Personal_Website-%23354230.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/oshekher"><img height="25" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://gitlab.com/OshekharO"><img height="25" src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white"></a>
-<a href="https://x.com/PurityWasHere">
+<a href="https://ariyanislamraj.bio"><img height="25" src="https://img.shields.io/badge/Personal_Website-%23354230.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ariyan-islam-raj1"><img height="25" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://gitlab.com/ariyanislamraj99"><img height="25" src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white"></a>
+<a href="https://x.com/ariyanislamraj.bio">
 <img height="25" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=black">
 </a>
 
@@ -57,6 +59,13 @@ Welcome to my GitHub profile!
 ## 📈 GitHub Stats
 ![OshekharO's GitHub stats](https://github-readme-stats.vercel.app/api?username=OshekharO&show_icons=true&theme=midnight-purple)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OshekharO&layout=compact&theme=midnight-purple)
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Z4nzu&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+</p>
 
 ---
 
