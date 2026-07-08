@@ -1,4 +1,4 @@
-<img src="http://noximart.shop/dsgdfb/wp-content/uploads/2025/12/generated_image_fb6b0076-ed47-46dd-b9ec-a01af590e088.png](https://ariyanislamraj.com/wp-content/uploads/2026/06/1779205465314-560x560.png.webp"/>
+<img src="https://ariyanislamraj.com/wp-content/uploads/2026/06/1779205465314-560x560.png.webp"/>
  <hr></hr>
 # Hi, I'm AriyaN Islam Raj 👋
 
